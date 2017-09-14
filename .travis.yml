@@ -17,6 +17,4 @@ env:
 script:
   - rake format
   - rake test
-branches:
-  only:
-    - master
+
